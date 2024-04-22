@@ -5,7 +5,7 @@
 <br />
 
 ### :sparkles: Website :sparkles:
-Check out my portfolio website written in **Rust** ![here](https://connellr023.github.io/cr023/#about-section)!
+Check out my portfolio website written in **Rust** <a href="https://connellr023.github.io/cr023/">here</a>!
 
 
 ### 💻 Primary Tools/Languages I Use 🛠️
