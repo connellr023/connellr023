@@ -1,6 +1,6 @@
 <h1>Hey there! 👋</h1>
 
-> I am an aspiring web developer and systems programming enthusiast.
+> I am an aspiring web developer and systems programming enthusiast who is currently a Computer Science student at the University of Calgary.
 
 ### :sparkles: Website :sparkles:
 Check out my portfolio website written in **Rust** <a href="https://connellr023.github.io/cr023/">here</a>!
