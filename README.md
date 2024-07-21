@@ -4,10 +4,7 @@
 
  - 🏗️ Currently developing **Oncology Quest**, a **PWA** to aid Medical Oncology students.
  - 🌱 Currently learning **Gleam/Erlang** and the capabilities of the **Beam VM**.
-
-### :sparkles: Website :sparkles:
-View my portfolio website created with **Rust** 🦀 ➕ **WebAssembly** <a href="https://connellr023.github.io/cr023/">here</a>!
-
+ - :sparkles: View my portfolio website **(WIP)** created with **Rust** 🦀 and **WebAssembly** <a href="https://connellr023.github.io/cr023/">here</a>!
 
 ### 💻 Primary Tools/Languages I Use 🛠️
 
