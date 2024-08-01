@@ -2,9 +2,9 @@
 
 > I am an aspiring web developer and systems programming enthusiast who is currently a Computer Science student at the University of Calgary.
 
- - 🏗️ Developing **Oncology Quest**, a **Web App** architected to aid Medical Oncology students.
- - 🌱 Learning **Gleam/Erlang** ⭐ and the capabilities of the **Beam VM**.
- - :sparkles: View my portfolio website **(WIP)** created with **Rust** 🦀 and **WebAssembly** <a href="https://connellr023.github.io/cr023/">here</a>!
+ - 🏗️ Developer and maintainer of **Oncology Quest**, a **Web App** architected to aid Medical Oncology students.
+ - 🌱 Learning concurrent programming with **Gleam** and **Rust**.
+ - ✨ View my portfolio website built with **SvelteKit** 🧰 <a href="https://connellr023.github.io/">here</a>!
 
 ### 💻 Primary Tools/Languages I Use 🛠️
 
