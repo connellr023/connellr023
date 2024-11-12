@@ -1,9 +1,11 @@
 <h1>Hey there! 👋</h1>
 
-> I am an aspiring web developer and systems programming enthusiast who is currently a Computer Science student at the University of Calgary.
+> I am a Computer Science student at the University of Calgary, specializing in interactive, scalable, and secure software development. I have experience in building web applications and real-time embedded systems, and I am dedicated to continuously enhancing my skills.
 
  - 🏗️ Developer and maintainer of **Oncology Quest**, a **Web App** architected to aid Medical Oncology students.
  - ✨ View my portfolio website built with **SvelteKit** 🧰 <a href="https://connellr023.github.io/">here</a>!
+ - :globe_with_meridians: Future **Garmin** intern!
+ - :mortar_board: Class of **2027**!
 
 ### 💻 Primary Tools/Languages I Use 🛠️
 
