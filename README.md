@@ -8,7 +8,7 @@
     enhancing my skills.
 
  - ✨ View my portfolio website <a href="https://connellr023.github.io/">here</a>!
- - :globe_with_meridians: Future **Garmin** intern!
+ - :globe_with_meridians: Software Engineering Intern at **Garmin**!
  - :mortar_board: Class of **2027**!
 
 ### 💻 Primary Tools/Languages I Use 🛠️
